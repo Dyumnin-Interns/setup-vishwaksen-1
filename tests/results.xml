@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1744292728" />
+    <testcase name="dut_test" classname="dut_test" file="/home/vishwaksen/vishwaksen/atp/dyum/setup-vishwaksen-1/tests/dut_test.py" lineno="8" time="0.0014684200286865234" sim_time_ns="11.001" ratio_time="7491.725654164637" />
+  </testsuite>
+</testsuites>

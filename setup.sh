@@ -1,2 +1,2 @@
-sudo apt install -y --no-install-recommends iverilog
-pip3 install cocotb cocotb-bus cocotb-coverage
+sudo pacman -S --noconfirm iverilog
+pip install cocotb cocotb-bus cocotb-coverage
